@@ -2,7 +2,9 @@
 
 ### Data Engineer | Analytics Engineer 
 
-Welcome to my project portfolio! Here you will find a showcase of my work in building scalable data pipelines, interactive analytics dashboards, and robust engineering systems. My focus is on creating value through clean code, modern architecture, and efficient data processing.
+Welcome to my project portfolio! Here you will find a showcase of my **personal projects**, demonstrating my ability to build scalable data pipelines, interactive analytics dashboards, and robust engineering systems.
+
+In my **current professional role**, I specialize in **Snowflake, DBT, Airflow, and Python**, focusing on creating value through clean code, modern architecture, and efficient data processing.
 
 ---
 
