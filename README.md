@@ -34,6 +34,19 @@ A comprehensive data orchestration system designed to manage complex dependency 
     *   **Environment Isolation:** Fully dockerized execution for consistent deployment across dev/prod.
 *   **Problem Solved:** Replaces brittle cron-based scheduling with a robust, observable graph of computations.
 
+
+### 3. Tastytrade MCP Server
+**Financial Data Access for AI Agents**
+
+A server that implements the Model Context Protocol (MCP) to provide AI agents with access to Tastytrade's historical price data. This project enables seamless integration of financial market data into LLM-based workflows.
+
+*   **Core Tech:** Python, Model Context Protocol (MCP), Tastytrade API, uv.
+*   **Key Features:**
+    *   **MCP Compliance:** Fully implements the MCP specification for tool exposure.
+    *   **Market Data Tools:** Provides tools for retrieving historical candle data.
+    *   **Secure & Robust:** Handles authentication securely and uses `uv` for dependency locking.
+*   **Use Case:** Enables financial analysis agents to fetch and reason about stock market history.
+
 ---
 
 ## 🛠️ Technical Skills
