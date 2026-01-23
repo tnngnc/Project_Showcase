@@ -35,7 +35,7 @@ A comprehensive data orchestration system designed to manage complex dependency 
 *   **Problem Solved:** Replaces brittle cron-based scheduling with a robust, observable graph of computations.
 
 
-### 3. Tastytrade MCP Server
+### 3. [Tastytrade MCP Server](https://github.com/tnngnc/mcp_tasty)
 **Financial Data Access for AI Agents**
 
 A server that implements the Model Context Protocol (MCP) to provide AI agents with access to Tastytrade's historical price data. This project enables seamless integration of financial market data into LLM-based workflows.
